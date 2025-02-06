@@ -1,9 +1,0 @@
-Inverser une chaîne de caractères
-
-    Écris une fonction qui affiche l'inverse d'une chaine de char.
-
-    Exemple : "hello" → "olleh".
-    prototype: void ft_revstr(const char *str);
-    Rendu: ex04/ft_revstr.c
-    
-    
