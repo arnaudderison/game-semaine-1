@@ -1,0 +1,14 @@
+==36409== Memcheck, a memory error detector
+==36409== Copyright (C) 2002-2024, and GNU GPL'd, by Julian Seward et al.
+==36409== Using Valgrind-3.24.0 and LibVEX; rerun with -h for copyright info
+==36409== Command: ./solution
+==36409== 
+==36409== 
+==36409== HEAP SUMMARY:
+==36409==     in use at exit: 0 bytes in 0 blocks
+==36409==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==36409== 
+==36409== All heap blocks were freed -- no leaks are possible
+==36409== 
+==36409== For lists of detected and suppressed errors, rerun with: -s
+==36409== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

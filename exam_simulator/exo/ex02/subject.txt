@@ -1,0 +1,9 @@
+Longueur d'une chaine
+
+    Écris une fonction (ft_strlen) qui prend un pointer de char et retourne la longueur de la chaine.
+
+    Exemple : "LaTorche" → 8.
+
+    prototype: int	ft_strlen(const char *str);
+    rendu: ex02/ft_strlen.c
+
