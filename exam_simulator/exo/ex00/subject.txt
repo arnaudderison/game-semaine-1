@@ -1,0 +1,3 @@
+    Ecrire "42" dans la sortie standard.
+    rendu: ex00/solution.c
+

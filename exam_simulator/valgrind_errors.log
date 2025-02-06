@@ -1,0 +1,14 @@
+==7792== Memcheck, a memory error detector
+==7792== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==7792== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==7792== Command: ./solution
+==7792== 
+==7792== 
+==7792== HEAP SUMMARY:
+==7792==     in use at exit: 0 bytes in 0 blocks
+==7792==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==7792== 
+==7792== All heap blocks were freed -- no leaks are possible
+==7792== 
+==7792== For lists of detected and suppressed errors, rerun with: -s
+==7792== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

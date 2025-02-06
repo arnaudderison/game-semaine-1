@@ -1,0 +1,9 @@
+Compter les occurrences d'un caractère
+
+    Écris une fonction qui compte combien de fois un caractère donné apparaît dans une chaîne de caractères.
+
+    Exemple : "LaTorche brille" et 'e' → 2.
+    Prototype: int	ft_nbchar(const char *str, const char c);
+    Rendu: ex03/ft_nbchar.c
+
+    

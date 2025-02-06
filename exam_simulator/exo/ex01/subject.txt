@@ -1,0 +1,3 @@
+il faut ecrire "LaTorche" dans la sortie standard.
+rendu: ex01/LaTorche.c
+
